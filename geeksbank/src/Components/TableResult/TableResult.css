@@ -1,0 +1,12 @@
+.buttonFibonacci{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 4em;
+    color: blue;
+    font-size:18px;
+    font-weight: bold;
+}
+
+th{
+    color: rgb(71, 71, 168);
+}
